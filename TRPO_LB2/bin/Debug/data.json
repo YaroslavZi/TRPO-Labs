@@ -1,0 +1,58 @@
+[
+  {
+    "$id": "1",
+    "Id": 1,
+    "FirstName": "Ivan",
+    "LastName": "Ivanov",
+    "Doljnost": "Dantist",
+    "Bolnici": {
+      "$id": "2",
+      "Id": 1,
+      "Otdelenie": "Morg",
+      "Palati": 6,
+      "Pacienti": "A123"
+    }
+  },
+  {
+    "$id": "3",
+    "Id": 2,
+    "FirstName": "Petr",
+    "LastName": "Petrov",
+    "Doljnost": "Travmotolog",
+    "Bolnici": {
+      "$id": "4",
+      "Id": 2,
+      "Otdelenie": "Travmpunkt",
+      "Palati": 28,
+      "Pacienti": "B433"
+    }
+  },
+  {
+    "$id": "5",
+    "Id": 3,
+    "FirstName": "Sasha",
+    "LastName": "Sashkov",
+    "Doljnost": "Ginekolog",
+    "Bolnici": {
+      "$id": "6",
+      "Id": 3,
+      "Otdelenie": "Ginekologicheskoe",
+      "Palati": 64,
+      "Pacienti": "F345"
+    }
+  },
+  {
+    "$id": "7",
+    "Id": 333,
+    "FirstName": "Anton",
+    "LastName": "Antonov",
+    "Doljnost": "Xiryrg",
+    "Bolnici": {
+      "$id": "8",
+      "Id": 0,
+      "Otdelenie": "Xiryrgicheskoe",
+      "Palati": 24,
+      "Pacienti": "N324"
+    }
+  }
+]
